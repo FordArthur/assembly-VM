@@ -1,0 +1,1 @@
+export PS1="\[\033[38;5;14m\]\T\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;9m\]\H\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;4m\]\w\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;10m\]>_\[$(tput sgr0)\]\[\033[38;5;2m\]\\$\[$(tput sgr0)\]"
